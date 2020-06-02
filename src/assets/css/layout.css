@@ -1,0 +1,70 @@
+@import "color.css";
+@import "style.css";
+body{
+    background-color:#e9ebee;
+}
+.tab{
+    list-style-type: none;
+    height: 80px;
+    margin: 40px 0;
+    padding: 0;
+    overflow: hidden;
+   background-color: #ffffff;
+}
+img{
+    float: left;
+    width:70px;
+    height: 70px;
+    margin: 5px 20px;
+    padding: 0;
+}
+.tab span{
+    float: left;
+    margin: 10px 5px;
+    text-align: center;
+}
+.tab ul {
+    height: 80px;
+    margin: 0 40px;
+    padding: 0;
+    float: left;
+    list-style-type:none;
+    overflow:hidden;
+    /*background-color:#bebebe;*/
+}
+.tab li {
+    padding: 20px;
+    text-decoration: none;
+    float: left;
+}
+.tab a:link , a:visited{
+    display: block;
+    width:120px;
+    font-weight:bold;
+    color: #1e395e;
+    text-align: center;
+    padding:34px 0px 4px;
+    text-decoration:none;
+    text-transform:uppercase;
+}
+.tab .imgs{
+    /*visibility: inherit;*/
+    margin-top:0px;
+    padding: 0 24px;
+    display: block;
+    width: 30px;
+    float: top;
+    height: 30px;
+}
+.tab .img2{
+    display: none;
+    margin-top:0px;
+    padding: 0 24px;;
+    width: 30px;
+    float: top;
+    height: 30px;
+}
+
+a:hover,a:active{
+    color: #e84d4d;
+}
