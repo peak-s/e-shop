@@ -45,7 +45,9 @@ public class DBBean {
         return rs;
     }
     public void execQuery(String s){
+    	System.out.print("--≤Â»Îæ‰:"+s+"\n");
         try {
+        	System.out.print("--≤Â»Îæ‰:"+s+"\n");
             stmt.executeUpdate(s);
         } catch (SQLException e) {
 

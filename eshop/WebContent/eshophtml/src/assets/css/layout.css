@@ -3,7 +3,7 @@
 body{
     background-color:#e9ebee;
 }
-/*上部分*/
+/*涓婇儴鍒�*/
 .top{
     height: 40px;
     width: 400px;
@@ -19,7 +19,7 @@ body{
     float:left;
 
 }
-.top img{
+img{
     height: 30px;
     width: 30px;
 }
@@ -31,7 +31,7 @@ body{
     overflow: hidden;
    background-color: #ffffff;
 }
-img{
+.tab img{
     float: left;
     width:70px;
     height: 70px;
@@ -85,7 +85,7 @@ img{
     height: 30px;
 }
 
-/*搜索框*/
+/*鎼滅储妗�*/
 form{
    float: left;
    /* width:300px;
@@ -111,7 +111,7 @@ input.btn{
     background-size: 30px 30px;
 
 }
-/*侧导航栏*/
+/*渚у鑸爮*/
 .menu ul {
     list-style-type: none;
     margin: 0;
@@ -137,7 +137,7 @@ input.btn{
     background-color: #2dbf4f;
     color: white;
 }
-/*首页轮播*/
+/*棣栭〉杞挱*/
 .mid{
     width: 1000px;
     height:380px ;
@@ -202,7 +202,7 @@ input.btn{
     background: rgba(0, 0, 0, 0.3) url("../img/right.png") center no-repeat;
     background-size: 40px 40px;
 }
-/*下部分商品展示*/
+/*涓嬮儴鍒嗗晢鍝佸睍绀�*/
 
 .product{
     position: relative;

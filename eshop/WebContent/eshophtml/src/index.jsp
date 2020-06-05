@@ -13,8 +13,8 @@
 <body>
 <!--顶部-->
 <div class="top">
-    <a href="" id="login" target="_blank"><img src="assets/img/login.png">登陆</a>
-    <a href="" id="register" target="_blank"><img src="assets/img/register.png">注册</a>
+    <a href="./pages/login.jsp" id="login" target="_blank"><img src="assets/img/login.png">登陆</a>
+    <a href="./pages/register.jsp" id="register" target="_blank"><img src="assets/img/register.png">注册</a>
 
 </div>
   <div class="tab">
@@ -22,7 +22,7 @@
       <span>真便宜</span>
       <nav>
           <ul>
-              <li><img class="imgs" src="./assets/img/home1.png" ><img class="img2" src="./assets/img/home2.png" ><a href="#">首页</a></li>
+              <li><img class="imgs" src="./assets/img/home1.png" ><img class="img2" src="./assets/img/home2.png" ><a href="">首页</a></li>
               <li><img class="imgs" id="category" src="./assets/img/categ1.png"><img class="img2" src="./assets/img/category2.png" ><a href="./pages/category.jsp" target="_blank">分类</a></li>
               <li><img class="imgs" src="./assets/img/mine1.png"><img class="img2" src="./assets/img/mine2.png" ><a href="#">我的</a></li>
               <li><img class="imgs" src="./assets/img/car.png"><img class="img2" src="./assets/img/car2.png" ><a href="#">购物车</a></li>

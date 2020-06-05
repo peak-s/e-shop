@@ -23,7 +23,7 @@
             response.sendRedirect("success.jsp");
         }
         else{
-            out.print("<script language='javaScript'> alert('密码错误');</script>");
+            out.print("<script language='javaScript'> alert('密码错误');</script>");   
             response.setHeader("refresh", "0;url=login.jsp");
         }
     }
