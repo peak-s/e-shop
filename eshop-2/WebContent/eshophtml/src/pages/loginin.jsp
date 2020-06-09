@@ -70,10 +70,10 @@
           <input class="input-normal" type="text" placeholder="请输入手机号" name="phone">
           <div class="formSex">
               <div class="frommale">
-                  <input type="radio" id="male"  class="sex formInput"/><lable for="male">男</lable>
+                  <input name="sex" type="radio" id="male"  class="sex formInput" value="男"/><lable for="male">男</lable>
               </div>
               <div class="fromfa">
-                  <input type="radio" id="female"  class="sex formInput"/><lable for="female">女</lable>
+                  <input name="sex" type="radio" id="female"  class="sex formInput" value="女"/><lable for="female">女</lable>
               </div>
 
           </div>

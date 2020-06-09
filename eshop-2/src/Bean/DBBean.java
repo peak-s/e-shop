@@ -18,40 +18,40 @@ public class DBBean {
         } 
         catch (Exception ex) {
             System.out.println(ex.getMessage());
-            System.out.println("Êı¾İÁ¬½ÓÊ§°Ü£¡");
+            System.out.println("æ•°æ®è¿æ¥å¤±è´¥ï¼");
         } 
 
     }
 
     public int executeUpdate(String s) {
         int result = 0;
-        System.out.println("--¸üĞÂÓï¾ä:"+s+"\n");
+        System.out.println("\"--æ›´æ–°è¯­å¥:"+s+"\n");
         try {
             result = stmt.executeUpdate(s);
         } catch (Exception ex) {
-            System.out.println("Ö´ĞĞ¸üĞÂ´íÎó£¡");
+            System.out.println("æ‰§è¡Œæ›´æ–°é”™è¯¯ï¼");
         }
         return result;
     }
 
     public ResultSet executeQuery(String s) {
         ResultSet rs = null;
-        System.out.print("--²éÑ¯Óï¾ä:"+s+"\n");
+        System.out.print("--æŸ¥è¯¢è¯­å¥:"+s+"\n");
         try {
             rs = stmt.executeQuery(s);
         } catch (Exception ex) {
-            System.out.println("Ö´ĞĞ²éÑ¯´íÎó£¡");
+            System.out.println("æ‰§è¡ŒæŸ¥è¯¢é”™è¯¯ï¼");
         }
         return rs;
     }
     public void execQuery(String s){
-    	System.out.print("--²åÈë¾ä:"+s+"\n");
+    	
         try {
-        	System.out.print("--²åÈë¾ä:"+s+"\n");
+       
             stmt.executeUpdate(s);
         } catch (SQLException e) {
 
-            System.out.println("Ö´ĞĞ²åÈë´íÎó£¡");
+            System.out.println("æ‰§è¡Œæ’å…¥é”™è¯¯ï¼");
         }
     }
 

@@ -24,7 +24,7 @@
           <ul>
               <li><img class="imgs" src="./assets/img/home1.png" ><img class="img2" src="./assets/img/home2.png" ><a href="">首页</a></li>
               <li><img class="imgs" id="category" src="./assets/img/categ1.png"><img class="img2" src="./assets/img/category2.png" ><a href="./pages/category.jsp" target="_blank">分类</a></li>
-              <li><img class="imgs" src="./assets/img/mine1.png"><img class="img2" src="./assets/img/mine2.png" ><a href="#">我的</a></li>
+              <li><img class="imgs" src="./assets/img/mine1.png"><img class="img2" src="./assets/img/mine2.png" ><a href="./pages/mien.jsp">我的</a></li>
               <li><img class="imgs" src="./assets/img/car.png"><img class="img2" src="./assets/img/car2.png" ><a href="#">购物车</a></li>
           </ul>
       </nav>
