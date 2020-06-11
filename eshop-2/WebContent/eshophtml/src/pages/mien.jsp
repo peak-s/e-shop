@@ -27,10 +27,15 @@
     </form>
 </div>
 
+
 <div class="cen">
-    <div class="massage">
+<form action="checkbt1.jsp" method="post">
+<div class="massage">
         <div class="zi">
             个人资料 / Personal information
+        </div>
+        <div class="grop">
+            <label>原用户名：</label><input class="input-normal" type="text" placeholder="原用户名" name="oldname" >
         </div>
         <div class="grop">
             <label>用户名：&emsp;</label><input class="input-normal" type="text" placeholder="用户名" name="name" >
@@ -41,23 +46,30 @@
         <div class="grop">
             <label>收货地址:&emsp;</label><input class="input-normal" type="text" placeholder="收货地址" name="address" >
         </div>
+
     </div>
     <div class="massage">
         <div class="zi">
             修改密码 / Change Password
         </div>
         <div class="grop">
-            <label>旧密码：&emsp;</label><input class="input-normal" type="text" placeholder="旧密码" name="oldpassword" >
+            <label>旧密码：&emsp;</label><input class="input-normal" type="password" placeholder="旧密码" name="oldpassword" >
         </div>
         <div class="grop">
-            <label>新密码：&emsp;</label><input class="input-normal" type="text" placeholder="新密码" name="password" >
+            <label>新密码：&emsp;</label><input class="input-normal" type="password" placeholder="新密码" name="password" >
         </div>
+        <button class="tijiao" type="submit">
+            确认修改
+        </button>
     </div>
-    <div class="massage">
+    </form>
+    <div class="footer">
         <div class="zi">
             我的收藏 / My collection
         </div>
     </div>
+    
+</div>
 </div>
 </body>
 </html>

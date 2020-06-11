@@ -72,28 +72,8 @@ function roll() {
         $('.right').css("opacity", 0);
     })
 }
-//登陆监听
-function foLogin() {
-    var oUname = document.getElementById("uname");
-    var oError = document.getElementById("error_box");
-    var oUpass = document.getElementById("upass");
+ 
 
-    var isError = true;
-    oError.innerHTML = "<br>";
 
-    if (oUname.value.length < 6 || oUname.value.length > 12) {
-        oError.innerHTML = "鐢ㄦ埛鍚嶈6-12浣�";
-        isError = false;
-        return;
-    }
-
-    
-    
-    if (oUpass.value.length < 6 || oUpass.value.length > 12) {
-        oError.innerHTML = "瀵嗙爜瑕�6-12浣�";
-        isError = false;
-        return;
-    }
-}// JavaScript Document
 addLoadEvent(changImg);
 addLoadEvent(roll);

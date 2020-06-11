@@ -68,42 +68,42 @@
 	</div>
 	
 	<div class="sp">	
-		<a href="shangpinye.html"><img src="../assets/img/products/canon.jpg" class="eg1"></a>
+		<a href="shuma/cacon.html"><img src="../assets/img/products/canon.jpg" class="eg1"></a>
 		<h2 align="left" style="color: #000000">佳能M100微单15-45</h2>
 		<h3 align="left" style="color:#FF0004">¥2499</h3>
 	</div>
 	<div class="sp">	
-		<a href="shangpinye.html"><img src="../assets/img/products/canon2.jpg" class="eg1"></a>
+		<a href="shuma/cacon2.html"><img src="../assets/img/products/canon2.jpg" class="eg1"></a>
 		<h2 align="left" style="color: #000000">Canon/佳能 PowerShot G7 X Mark II数码相机</h2>
 		<h3 align="left" style="color:#FF0004">¥3499</h3>
 	</div>
 	<div class="sp">	
-		<a href="shangpinye.html"><img src="../assets/img/products/nikon.jpg" class="eg1"></a>
+		<a href="shuma/nikon.html"><img src="../assets/img/products/nikon.jpg" class="eg1"></a>
 		<h2 align="left" style="color: #000000">Nikon/尼康 Z6 24-70mm 全画幅微单相机</h2>
 		<h3 align="left" style="color:#FF0004">¥11799</h3>
 	</div>
 	<div class="sp">	
-		<a href="shangpinye.html"><img src="../assets/img/products/macbook.jpg" class="eg1"></a>
+		<a href="shuma/apple.html"><img src="../assets/img/products/macbook.jpg" class="eg1"></a>
 		<h2 align="left" style="color: #000000">Apple/苹果 MacBook Pro 13.3英寸</h2>
 		<h3 align="left" style="color:#FF0004">¥11499</h3>
 	</div>
 	<div class="sp">	
-		<a href="shangpinye.html"><img src="../assets/img/products/iphone.png" class="eg1"></a>
+		<a href="shuma/apple2.html"><img src="../assets/img/products/iphone.png" class="eg1"></a>
 		<h2 align="left" style="color: #000000">Apple/苹果 iPhone11</h2>
 		<h3 align="left" style="color:#FF0004">¥5999</h3>
 	</div>
 	<div class="sp">	
-		<a href="shangpinye.html"><img src="../assets/img/products/oppo.jpg" class="eg1"></a>
+		<a href="shuma/oppo.html"><img src="../assets/img/products/oppo.jpg" class="eg1"></a>
 		<h2 align="left" style="color: #000000">OPPO Reno3元气版</h2>
 		<h3 align="left" style="color:#FF0004">¥2699</h3>
 	</div>
 	<div class="sp">	
-		<a href="shangpinye.html"><img src="../assets/img/products/huawei.jpg" class="eg1"></a>
+		<a href="shuma/huawei.html"><img src="../assets/img/products/huawei.jpg" class="eg1"></a>
 		<h2 align="left" style="color: #000000">HUAWEI/华为p30</h2>
 		<h3 align="left" style="color:#FF0004">¥3058</h3>
 	</div>
 	<div class="sp">	
-		<a href="shangpinye.html"><img src="../assets/img/products/xiaomi.jpg" class="eg1"></a>
+		<a href="shuma/xiaomi.html"><img src="../assets/img/products/xiaomi.jpg" class="eg1"></a>
 		<h2 align="left" style="color: #000000">小米10 5G手机</h2>
 		<h3 align="left" style="color:#FF0004">¥3799</h3>
 	</div>

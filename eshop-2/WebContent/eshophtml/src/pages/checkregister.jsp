@@ -17,7 +17,7 @@
     String sex=(String)request.getParameter("sex");
     String phone=(String)request.getParameter("phone");
     
-    System.out.println("sex的值："+sex);
+
 
     if(password.length()<6){
     	out.print("<script language='javaScript'> alert('密码长度不能小于6');</script>");

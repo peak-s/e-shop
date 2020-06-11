@@ -30,7 +30,7 @@
   </div>
   
   <div class="mainbody middle">
-    <form class="form-box front" action="checklogin.jsp" method="post" action="checkregister.jsp" method="post">
+    <form class="form-box front" action="../../../loginServlet" method="post" action="checkregister.jsp" method="post">
       <div>
         <h1 class="topword">登陆 </h1>
       </div>

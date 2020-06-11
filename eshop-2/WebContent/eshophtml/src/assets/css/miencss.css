@@ -4,33 +4,58 @@
     background-color: white;
     position: relative;
     width: 1000px;
-    height:2000px ;
+    height:1000px ;
     margin: 40px auto;
 }
 .zi{
-    /*background-color: #a6eee3;*/
+ 
     font-weight: bold;
     color: #b74a3d;
     width: 960px;
     height: 60px;
     line-height: 60px;
     padding-left: 40px;
-    /*border-bottom: pink;
-    border-bottom-width: 5px;*/
     border-bottom:2px solid #b74a3d;
 }
 .grop{
-    /*background-color: #a6eee3;*/
+   
     width: 400px;
     height: 60px;
     padding-left: 40px;
     padding-top: 20px;
 }
 .grop input{
+	outline:none;
     border: 1px solid #fd9a9a;
     height: 30px;
     width: 200px;
     border-radius: 20px;
     text-align: center;
 }
+
+.tijiao{
+    margin-left: 125px;
+    border-radius: 20px;
+    background-color: #dd524d; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.footer{
+    position: absolute;
+    top: 70%;
+}
+button{
+    outline:none;
+}
+form{
+     padding: 0px;
+    margin: 0;
+}
+
+
 

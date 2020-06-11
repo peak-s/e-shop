@@ -37,14 +37,14 @@
 <div class="mid">
     <div class="menu">
         <ul>
-            <li id="nz"><a href="#">女装</a></li>
-            <li><a href="#">男装</a></li>
-            <li><a href="#">母婴</a></li>
+            <li id="nz"><a href="./pages/shuma.jsp">女装</a></li>
+            <li><a href="./pages/shuma.jsp">男装</a></li>
+            <li><a href="./pages/shuma.jsp">母婴</a></li>
             <li><a href="./pages/shuma.jsp">数码</a></li>
-            <li><a href="#">医药</a></li>
-            <li><a href="#">百货</a></li>
-            <li><a href="#">食品</a></li>
-            <li><a href="#">美妆</a></li>
+            <li><a href="./pages/shuma.jsp">医药</a></li>
+            <li><a href="./pages/shuma.jsp">百货</a></li>
+            <li><a href="./pages/shuma.jsp">食品</a></li>
+            <li><a href="./pages/shuma.jsp">美妆</a></li>
         </ul>
     </div>
     <div class="box">
@@ -70,31 +70,31 @@
         </div>
     </div>
     <div class="one">
-        <div class="bg"><img src="./assets/img/njy.jpg"></div>
+        <div class="bg"><img src="./assets/img/products/iphone.png"></div>
         <div class="info">
-            <a href="">诺基亚！摔不坏！</a>
-            <p>惊爆价：仅售199！！</p>
+            <a href="">苹果！好用！</a>
+            <p>惊爆价：仅售5999！！</p>
         </div>
     </div>
     <div class="one">
-        <div class="bg"><img src="./assets/img/njy.jpg"></div>
+        <div class="bg"><img src="./assets/img/products/huawei.jpg"></div>
         <div class="info">
-            <a href="">诺基亚！摔不坏！</a>
-            <p>惊爆价：仅售199！！</p>
+            <a href="">华为！牛！</a>
+            <p>惊爆价：仅售3058！！</p>
         </div>
     </div>
     <div class="one">
-        <div class="bg"><img src="./assets/img/njy.jpg"></div>
+        <div class="bg"><img src="./assets/img/products/laji.jpg"></div>
         <div class="info">
-            <a href="">诺基亚！摔不坏！</a>
-            <p>惊爆价：仅售199！！</p>
+            <a href="">表情包！够沙雕！</a>
+            <p>惊爆价：仅售0.9！！</p>
         </div>
     </div>
     <div class="one">
-        <div class="bg"><img src="./assets/img/njy.jpg"></div>
+        <div class="bg"><img src="./assets/img/products/nikon.jpg"></div>
         <div class="info">
-            <a href="">诺基亚！摔不坏！</a>
-            <p>惊爆价：仅售199！！</p>
+            <a href="">别看！买不起！</a>
+            <p>惊爆价：仅售11799！！</p>
         </div>
     </div>
     <div class="one">
@@ -105,6 +105,13 @@
         </div>
     </div>
 </div>
+
+<div class="bt">
+    <p>合作伙伴</p>
+    <div class="hz"><img src="assets/img/taobao.png"><img src="assets/img/pdd%20(2).png"><img src="assets/img/jd.png"></div>
+</div>
+
+</body>
 
 </body>
 </html>

@@ -20,11 +20,12 @@
     {
         //将输入的密码与数据库密码相比对，执行相应操作
         if(password.equals(rs.getObject("pswd"))){
-            response.sendRedirect("success.jsp");
+        	response.sendRedirect("../index.jsp");
+        	out.print("<script language='javaScript'> alert('登陆成功');</script>"); 
         }
         else{
             out.print("<script language='javaScript'> alert('密码错误');</script>");   
-            response.setHeader("refresh", "0;url=login.jsp");
+            response.setHeader("refresh", "0;url=loginin.jsp");
         }
     }
     else 
